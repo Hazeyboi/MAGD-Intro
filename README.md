@@ -1,3 +1,3 @@
 # MAGD-Intro
 
-This is assingments **1, 6, and 8.**
+The files in this branch are from assignments **1, 6, and 8.**
