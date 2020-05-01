@@ -1,3 +1,3 @@
 # MAGD-Intro
 
-This is assingments **1, 4, and 8.**
+This is assingments **1, 6, and 8.**
